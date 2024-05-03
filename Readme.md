@@ -2,6 +2,13 @@
 
 This API allows you to manage toy shops and their products.
 
+# Installation
+
+```
+npm install
+npm start
+```
+
 ## Get All Shops
 
 ### Request
